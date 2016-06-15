@@ -1,6 +1,6 @@
 jobs:
-  - name: rsynctest-manifest1
+  - name: rsynctest-manifest2
     type: manifest
     steps:
-      - GET: rsynctest-image1
+      - GET: rsynctest-image2
       
